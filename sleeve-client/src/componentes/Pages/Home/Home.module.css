@@ -1,0 +1,22 @@
+
+
+
+.container {
+    background-color: black;
+    height: 100vh;
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-size: xx-large;
+    font-family: "Julius Sans One";
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+.img {
+    width: 883px;
+    height:  596px;
+}
